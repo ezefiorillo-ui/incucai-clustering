@@ -25,6 +25,7 @@ Los nombres de los archivos no coinciden con la numeración del artículo: la Fi
 | Fig. 4, criterios de detección | Simulación `s06_deteccion.py` → `s07_consolidar_deteccion.py` | `resultados_simulacion/tabla_potencia.csv` | `fig4_deteccion.py` | `figuras/fig4_deteccion.png` |
 | Tabla 4, datos reales frente a N0 | Simulación `s06_deteccion.py` → `s07_consolidar_deteccion.py` (K-Means, Ward, R2 y Z) y `s02_nulos.py` (GMM) | `simulacion/resultados/reales_todos_estadisticos.csv` y `pvalores_nulos.csv` | — (valores copiados de los CSV) | Tabla 4 del artículo |
 | Sección 5.4, corrección de Holm y magnitud de Z | Simulación | `reales_todos_estadisticos.csv` y `det_null_E2_N0.csv` | `holm_y_magnitud_Z.py` | Informe en pantalla (0,022 y 0,084; 0,273, 0,171 y 0,205) |
+| Sección 4.3, mínimo de 3 categorías de DBSCAN | Base Incucai, cabecera 2963 | `simulacion/datos/categorias_78_clasificadas.csv` | `dbscan_min_samples.py` | Informe en pantalla (con un mínimo de 13, todo ruido en los radios chicos) |
 | Tabla 5, E5, CLR y ruido de DBSCAN | Base Incucai, cabecera 2963 | `salida13_organo_tejido_2025_cab2963.csv` | `analisis_E5_CLR_DBSCAN.py` | `resultados_nuevos/` |
 | Sección 5.4, Z sin SISTEMA OSTEOARTICULAR en E2 | Base Incucai, cabecera 2963 | `salida13_organo_tejido_2025_cab2963.csv` | `z_E2_sin_osteoarticular.py` | Informe en pantalla (p = 0,326) |
 | Secciones 5.2 y 5.3, intervalos de confianza | Simulación | `simulacion/resultados/control_positivo.csv` y `tabla_potencia.csv` | `ic_controles_positivos.py` | Informe en pantalla |

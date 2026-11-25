@@ -70,6 +70,8 @@ Usa 1000 simulaciones por escenario y tarda unos 25 minutos. Para una prueba rá
 
 **De dónde sale la Tabla 4:** las filas de K-Means, Ward, R2 y Z salen de `simulacion/resultados/reales_todos_estadisticos.csv` (filas `N0`), y la fila de GMM, de `simulacion/resultados/pvalores_nulos.csv`. Los p de N1 y N2 que se citan en la sección 5.4 (Ward en E3: 0,057 y 0,074) también salen de `pvalores_nulos.csv`.
 
+**Mínimo de categorías de DBSCAN (sección 4.3)** (desde `algoritmos/`): `python dbscan_min_samples.py`. Con un mínimo de 13, en los dos radios más chicos de E2 todas las categorías quedan como ruido; con 3 o 5, forma un solo grupo.
+
 **Corrección de Holm y magnitud de Z (sección 5.4)** (desde `algoritmos/`):
 
 ```
