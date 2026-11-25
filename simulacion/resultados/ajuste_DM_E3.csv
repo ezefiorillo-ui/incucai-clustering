@@ -1,0 +1,27 @@
+Categoria,Grupo,T,chi2_i_obs,chi2_i_DM_mediana,percentil_obs_bajo_DM
+SISTEMA OSTEOARTICULAR,Agregado osteoarticular,2510,50.5,40.9,0.69
+CORNEA IZQUIERDA,Tejido ocular,1132,14.1,34.2,0.04
+CORNEA DERECHA,Tejido ocular,1119,12.3,33.4,0.026
+RIÑON DERECHO,Organo solido,776,13.3,28.2,0.064
+RIÑON IZQUIERDO,Organo solido,750,14.6,28.0,0.09
+HIGADO,Organo solido,433,21.4,21.3,0.505
+CORAZON,Organo solido,131,16.5,14.1,0.622
+TIBIA IZQUIERDA,Osteo-tendinoso especifico,131,16.8,13.8,0.663
+TIBIA DERECHA,Osteo-tendinoso especifico,127,29.8,13.9,0.97
+FEMUR IZQUIERDO,Osteo-tendinoso especifico,86,18.4,12.5,0.818
+VALVULA PULMONAR,Tejido cardiovascular,86,14.2,12.5,0.606
+FASCIA LATA IZQUIERDA,Osteo-tendinoso especifico,85,56.6,13.0,1.0
+FEMUR DERECHO,Osteo-tendinoso especifico,73,14.8,12.2,0.662
+TIBIAL ANTERIOR DERECHO,Osteo-tendinoso especifico,63,16.2,11.8,0.761
+FASCIA LATA DERECHA,Osteo-tendinoso especifico,60,51.6,12.0,1.0
+TIBIAL POSTERIOR DERECHO,Osteo-tendinoso especifico,58,19.0,11.8,0.887
+CRESTA ILIACA DERECHA,Osteo-tendinoso especifico,58,6.3,11.8,0.102
+TIBIAL ANTERIOR IZQUIERDO,Osteo-tendinoso especifico,56,10.4,11.5,0.405
+PERICARDIO,Tejido cardiovascular,51,8.3,11.8,0.235
+TIBIAL POSTERIOR IZQUIERDO,Osteo-tendinoso especifico,50,11.0,11.6,0.448
+VALVULA AORTICA,Tejido cardiovascular,39,15.7,11.6,0.79
+TENDON DE AQUILES IZQUIERDO,Osteo-tendinoso especifico,38,10.3,11.6,0.393
+TENDON DE AQUILES DERECHO,Osteo-tendinoso especifico,37,14.8,11.6,0.73
+RIÑON IZQUIERDO Y PANCREAS,Organo solido,35,6.2,11.1,0.098
+PERONEO LARGO DERECHO,Osteo-tendinoso especifico,33,14.5,11.2,0.736
+PERONEO LARGO IZQUIERDO,Osteo-tendinoso especifico,31,10.7,11.5,0.425

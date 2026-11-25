@@ -1,0 +1,12 @@
+{
+ "E2": {
+  "rms_desvio_verdadero": 0.02588490070396237,
+  "rms_desvio_sin_osteo": 0.02522324922201175,
+  "mediana_ruido": 0.10751498717442821
+ },
+ "E3": {
+  "rms_desvio_verdadero": 0.07530707657882017,
+  "rms_desvio_sin_osteo": 0.07646063247734775,
+  "mediana_ruido": 0.11619245652126672
+ }
+}
